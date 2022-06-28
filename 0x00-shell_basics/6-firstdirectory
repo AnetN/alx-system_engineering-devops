@@ -1,2 +1,4 @@
 #!/bin/bash
-mkdir[D[D[D[D[D[D[D[Cmkdir /tmp/my_first_directory
+#mkdir /tmp/my_first_directory/
+#
+#
